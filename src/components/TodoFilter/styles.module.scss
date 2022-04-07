@@ -1,0 +1,13 @@
+.searchContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    transition: width .8s ease;
+    padding-right: 10px;
+
+    .searchTextField {
+        width: 100px;
+        margin-right: 20px;
+    }
+}
