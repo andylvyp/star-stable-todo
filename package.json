@@ -2,6 +2,7 @@
   "name": "star-stable-todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://andylvyp.github.io/star-stable-todo",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@material-ui/icons": "^4.11.2",
@@ -28,7 +29,9 @@
     "test": "jest",
     "eject": "react-scripts eject",
     "lint": "eslint -c .eslintrc.js --ext .js,.jsx,.ts,.tsx .",
-    "lint:fix": "npm run lint -- --fix"
+    "lint:fix": "npm run lint -- --fix",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -62,6 +65,7 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-react": "^7.29.4",
     "eslint-plugin-react-hooks": "^4.4.0",
+    "gh-pages": "^3.2.3",
     "miragejs": "^0.1.43"
   }
 }
