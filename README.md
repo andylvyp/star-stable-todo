@@ -12,3 +12,4 @@ you can find the application at ```http://localhost:3000/```
 
 ## Demo
 You can find the demo here: [Demo](https://andylvyp.github.io/star-stable-todo/)
+![](https://github.com/andylvyp/star-stable-todo/blob/master/screenshot.png)
