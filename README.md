@@ -11,4 +11,4 @@ you can find the application at ```http://localhost:3000/```
 * Test library: [React Testing Library](https://testing-library.com/)
 
 ## Demo
-You can find the demo here: 
+You can find the demo here: [Demo](https://andylvyp.github.io/star-stable-todo/)
