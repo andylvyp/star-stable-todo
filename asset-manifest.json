@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/star-stable-todo/static/css/main.94345d74.css",
+    "main.js": "/star-stable-todo/static/js/main.7ba2a7e3.js",
+    "static/js/651.253ffab0.chunk.js": "/star-stable-todo/static/js/651.253ffab0.chunk.js",
+    "index.html": "/star-stable-todo/index.html",
+    "main.94345d74.css.map": "/star-stable-todo/static/css/main.94345d74.css.map",
+    "main.7ba2a7e3.js.map": "/star-stable-todo/static/js/main.7ba2a7e3.js.map",
+    "651.253ffab0.chunk.js.map": "/star-stable-todo/static/js/651.253ffab0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94345d74.css",
+    "static/js/main.7ba2a7e3.js"
+  ]
+}
